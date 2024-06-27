@@ -1998,9 +1998,9 @@ let NintexSampleTextfield = _decorate([e$2('form-plugin-textfield')], function (
               type: 'boolean',
               title: 'Show Outline'
             },
-			filemarkup: {
-              type: 'files',
-              title: 'Show Outline'
+	     filemarkup: {
+              type: 'string',
+              title: 'Show Image'
             },
             value: {
               type: 'string',
